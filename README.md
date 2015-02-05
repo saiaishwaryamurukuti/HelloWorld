@@ -5,5 +5,6 @@ My First Hello world program in c
 int main()
 {
 Printf("My first c program");
+return 0;
 }
 
